@@ -1,0 +1,10 @@
+{
+  "log": {
+    "body": "console.log(${1:})",
+    "prefix": "log"
+  },
+  "tag": {
+    "body": "<${1:Tag}>${2:content}</${1:Tag}>",
+    "prefix": "tag"
+  }
+}
